@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<svg width="21" height="21" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <title>QR_code_generator_icon</title>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#000000" height="7" id="svg_1" stroke="#000000" stroke-width="0" width="1" x="2" y="2"/>
+  <rect fill="#000000" height="7" id="svg_2" stroke="#000000" stroke-width="0" width="1" x="8" y="2"/>
+  <rect fill="#000000" height="1" id="svg_3" stroke="#000000" stroke-width="0" width="5" x="3" y="2"/>
+  <rect fill="#000000" height="1" id="svg_4" stroke="#000000" stroke-width="0" width="5" x="3" y="8"/>
+  <rect fill="#000000" height="3" id="svg_5" stroke="#000000" stroke-width="0" width="3" x="4" y="4"/>
+  <rect fill="#000000" height="7" id="svg_10" stroke="#000000" stroke-width="0" width="1" x="2" y="12"/>
+  <rect fill="#000000" height="7" id="svg_9" stroke="#000000" stroke-width="0" width="1" x="8" y="12"/>
+  <rect fill="#000000" height="1" id="svg_8" stroke="#000000" stroke-width="0" width="5" x="3" y="12"/>
+  <rect fill="#000000" height="1" id="svg_7" stroke="#000000" stroke-width="0" width="5" x="3" y="18"/>
+  <rect fill="#000000" height="3" id="svg_6" stroke="#000000" stroke-width="0" width="3" x="4" y="14"/>
+  <rect fill="#000000" height="7" id="svg_15" stroke="#000000" stroke-width="0" width="1" x="12" y="2"/>
+  <rect fill="#000000" height="7" id="svg_14" stroke="#000000" stroke-width="0" width="1" x="18" y="2"/>
+  <rect fill="#000000" height="1" id="svg_13" stroke="#000000" stroke-width="0" width="5" x="13" y="2"/>
+  <rect fill="#000000" height="1" id="svg_12" stroke="#000000" stroke-width="0" width="5" x="13" y="8"/>
+  <rect fill="#000000" height="3" id="svg_11" stroke="#000000" stroke-width="0" width="3" x="14" y="4"/>
+  <rect fill="#000000" height="3" id="svg_16" stroke="#000000" stroke-width="0" width="3" x="10" y="10"/>
+  <rect fill="#000000" height="3" id="svg_17" stroke="#000000" stroke-width="0" width="3" x="16" y="10"/>
+  <rect fill="#000000" height="3" id="svg_18" stroke="#000000" stroke-width="0" width="3" x="13" y="13"/>
+  <rect fill="#000000" height="3" id="svg_19" stroke="#000000" stroke-width="0" width="3" x="10" y="16"/>
+  <rect fill="#000000" height="3" id="svg_20" stroke="#000000" stroke-width="0" width="3" x="16" y="16"/>
+  <rect fill="#000000" height="2" id="svg_21" stroke="#000000" stroke-width="0" width="1" x="10" y="2"/>
+  <rect fill="#000000" height="2" id="svg_22" stroke="#000000" stroke-width="0" width="1" x="10" y="5"/>
+  <rect fill="#000000" height="1" id="svg_23" stroke="#000000" stroke-width="0" width="1" x="10" y="8"/>
+  <rect fill="#000000" height="1" id="svg_24" stroke="#000000" stroke-width="0" width="2" x="7" y="10"/>
+  <rect fill="#000000" height="1" id="svg_25" stroke="#000000" stroke-width="0" width="2" x="4" y="10"/>
+  <rect fill="#000000" height="1" id="svg_26" stroke="#000000" stroke-width="0" width="1" x="2" y="10"/>
+  <rect fill="#000000" height="8" id="svg_27" stroke="#000000" stroke-width="0" width="1" x="0" y="0"/>
+  <rect fill="#000000" height="1" id="svg_28" stroke="#000000" stroke-width="0" width="7" x="1" y="0"/>
+  <rect fill="#000000" height="8" id="svg_29" stroke="#000000" stroke-width="0" transform="matrix(1, 0, 0, 1, 0, 0)" width="1" x="20" y="0"/>
+  <rect fill="#000000" height="1" id="svg_30" stroke="#000000" stroke-width="0" width="7" x="13" y="0"/>
+  <rect fill="#000000" height="8" id="svg_31" stroke="#000000" stroke-width="0" width="1" x="0" y="13"/>
+  <rect fill="#000000" height="8" id="svg_32" stroke="#000000" stroke-width="0" transform="matrix(1, 0, 0, 1, 0, 0)" width="1" x="20" y="13"/>
+  <rect fill="#000000" height="1" id="svg_33" stroke="#000000" stroke-width="0" transform="matrix(1, 0, 0, 1, 0, 0)" width="7" x="1" y="20"/>
+  <rect fill="#000000" height="1" id="svg_34" stroke="#000000" stroke-width="0" width="7" x="13" y="20"/>
+ </g>
+</svg>

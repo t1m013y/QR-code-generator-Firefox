@@ -1,0 +1,43 @@
+body {
+	width: 300px;
+	height: 400px;
+	padding: 5px;
+	background-color: #d9d9d9;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+header {
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-size: 14pt;
+	color: #1a1a1a;
+}
+
+div#placeholder {
+	width: 90vw;
+	height: 90vw;
+	margin-top: 5px;
+	margin-bottom: 3px;
+	margin-left: auto;
+   margin-right: auto;
+	background-color: #e6e6e6;
+}
+
+div#qrCodeText {
+	margin-top: 3px;
+	padding-left: 5px;
+	padding-right: 5px;
+	color: #333333;
+	hyphens: none;
+	word-break: break-word;
+}
+
+img#qrCode {
+	width: 100%;
+	height: 100%;
+}
+
+#error {
+	color: #c63939;
+}

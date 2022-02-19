@@ -1,0 +1,26 @@
+{
+	"manifest_version": 2,
+	
+	"name": "QR code generator",
+	"short_name": "QR code",
+	"author": "t1m013y",
+	"description": "Добавляет в адресную строку браузера кнопку создания QR-кода для открытой вкладки. ",
+	"version": "0.1.1",
+	
+	"icons": {
+		"48": "icons/icon48.png",
+		"96": "icons/icon96.png"
+	},
+	
+	"permissions": [
+		"tabs"
+	],
+	
+	"page_action": {
+		"show_matches": ["<all_urls>"],
+		"default_icon": "icons/icon.svg",
+		"default_title": "Сгенерировать QR-код",
+		"default_popup": "popup/index.html",
+		"browser_style": true
+	}
+}
