@@ -1,4 +1,4 @@
-# QR code generator
+# <img src="https://user-images.githubusercontent.com/91249047/154852193-3d01fd9e-5cd9-41b2-bb8c-38b0c3abb53b.png" height=49 title="icon" alt="icon"></img> QR code generator
 [![license](https://img.shields.io/badge/license-MIT-97c510?style=flat "license")](https://choosealicense.com/licenses/mit/)  
 [![addons.mozilla.org:](https://img.shields.io/badge/-addons.mozilla.org%3A-5b5b5b?style=flat "addons.mozilla.org")](https://addons.mozilla.org)
 [![downloads](https://img.shields.io/amo/dw/t1m013y-qr-code-generator "downloads")](https://addons.mozilla.org/ru/firefox/addon/t1m013y-qr-code-generator/)
@@ -13,4 +13,4 @@ QR code generator – расширение для браузера Firefox, ко
 [![Get the add-on](https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png)](https://addons.mozilla.org/ru/firefox/addon/t1m013y-qr-code-generator/)
 
 ## Скриншоты
-<img height=250 alt="Screenshot_000" title="Screenshot" src="https://user-images.githubusercontent.com/91249047/154838200-ee03d1ed-e80c-46d3-aacd-7b6ceefdb447.png">
+<img src="https://user-images.githubusercontent.com/91249047/154838200-ee03d1ed-e80c-46d3-aacd-7b6ceefdb447.png" height=250 title="Screenshot" alt="Screenshot_000">
