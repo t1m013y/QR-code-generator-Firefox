@@ -14,4 +14,4 @@ QR code generator – расширение для браузера Firefox, ко
 [![Get the add-on](https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png)](https://addons.mozilla.org/ru/firefox/addon/t1m013y-qr-code-generator/)
 
 ## Скриншоты
-<img src="https://user-images.githubusercontent.com/91249047/154838200-ee03d1ed-e80c-46d3-aacd-7b6ceefdb447.png" height=250 title="Screenshot" alt="Screenshot_000">
+<img src="https://user-images.githubusercontent.com/91249047/190253984-5e7f796a-bc5d-46a6-9ff3-106010685a71.jpg" height=250 title="Screenshot" alt="Screenshot_000">
