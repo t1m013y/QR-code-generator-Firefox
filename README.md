@@ -11,7 +11,7 @@
 QR code generator – расширение для браузера Firefox, которое добавляет в адресную строку кнопку создания QR-кода для открытой вкладки и позволяет быстро открыть эту же вкладку на телефоне или другом устройстве. Пока оно доступно только для браузера Firefox, но я планирую сделать версии и для других браузеров: Opera, Яндекс браузер и др. 
 
 ## Скачать
-[![Get the add-on](https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png)](https://addons.mozilla.org/ru/firefox/addon/t1m013y-qr-code-generator/)
+[![Get the add-on](https://user-images.githubusercontent.com/91249047/233659614-8b4e1030-f6bc-4a84-998f-19e6893bf2c8.png)](https://addons.mozilla.org/ru/firefox/addon/t1m013y-qr-code-generator/)
 
 ## Скриншоты
 <img src="https://user-images.githubusercontent.com/91249047/190253984-5e7f796a-bc5d-46a6-9ff3-106010685a71.jpg" height=250 title="Screenshot" alt="Screenshot_000">
