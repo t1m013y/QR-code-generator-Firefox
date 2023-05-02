@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/91249047/154852193-3d01fd9e-5cd9-41b2-bb8c-38b0c3abb53b.png" height=49 title="icon" alt="icon"></img>
 # QR code generator
-[![license](https://img.shields.io/badge/license-MIT-97c510?style=flat "license")](LICENSE)  
+[![license](https://img.shields.io/github/license/t1m013y/QR-code-generator-Firefox)](LICENSE)  
 [![addons.mozilla.org:](https://img.shields.io/badge/-addons.mozilla.org%3A-5b5b5b?style=flat "addons.mozilla.org")](https://addons.mozilla.org)
 [![downloads](https://img.shields.io/amo/dw/t1m013y-qr-code-generator "downloads")](https://addons.mozilla.org/ru/firefox/addon/t1m013y-qr-code-generator/)
 [![users](https://img.shields.io/amo/users/t1m013y-qr-code-generator "users")](https://addons.mozilla.org/ru/firefox/addon/t1m013y-qr-code-generator/)
