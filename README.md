@@ -1,4 +1,4 @@
-<img src="images/icon128.png" height=49 title="icon" alt="icon"></img>
+<img src="images/icon128.png" alt="icon" height=49></img>
 # QR code generator
 [![license](https://img.shields.io/github/license/t1m013y/QR-code-generator-Firefox)](LICENSE)  
 [![addons.mozilla.org:](https://img.shields.io/badge/-addons.mozilla.org%3A-5b5b5b?style=flat "addons.mozilla.org")](https://addons.mozilla.org)
@@ -14,4 +14,4 @@ QR code generator – расширение для браузера Firefox, ко
 [![Get the add-on](https://user-images.githubusercontent.com/91249047/233659614-8b4e1030-f6bc-4a84-998f-19e6893bf2c8.png)](https://addons.mozilla.org/ru/firefox/addon/t1m013y-qr-code-generator/)
 
 ## Скриншоты
-<img src="images/Screenshot_000.jpg" height=250 title="Screenshot" alt="Screenshot_000">
+<img src="images/Screenshot_000.jpg" alt="Screenshot_000" height=250>
